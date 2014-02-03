@@ -23,6 +23,7 @@ namespace Assignment_04
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Somewhere in the world, at this exact moment, someone is taking a dump");
 
             // Program Footer
             Console.Write("\nPress ENTER to exit");
